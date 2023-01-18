@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fjh3
-- 👀 I’m interested in improving my coding skills.
-- 🌱 I’m currently taking the JHU data science specialization. 
-- 💞️ I’m looking to collaborate on nothing at this time. Still gettin up to speed. 
+- 👀 I’m interested in getting more proficient in R and Python and expanding my horizons beyond Matlab. my coding skills from Matlab .
+- 🌱 I’m currently taking the JHU Data Science Specialization to sharpen my R skills. 
+- 💞️ I’m alaways looking to collaborate. 
 - 📫 How to reach me at fjharan@gmail.com.
 
 <!---
