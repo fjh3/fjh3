@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fjh3
-- 👀 I’m interested in getting more proficient in R and Python and expanding my horizons beyond Matlab. my coding skills from Matlab .
-
-- 💞️ I’m alaways looking to collaborate. 
+- 👀 I’m interested in getting more proficient in R and Python and expanding my horizons beyond Matlab. 
 - 📫 How to reach me at fjharan@gmail.com.
 
 <!---
